@@ -1,0 +1,63 @@
+2022-10-25 15:07:38 INFO Method createOrder was called
+2022-10-25 15:07:38 INFO Method addItem was called with orderId=1, product=Product{id=1, description='HP X552M', price=500.0}, count=2
+2022-10-25 15:07:38 INFO Method getOrder was called with orderId=1
+2022-10-25 15:07:38 INFO Method addItem was called with orderId=1, product=Product{id=2, description='iphone 14 pro', price=1000.0}, count=1
+2022-10-25 15:07:38 INFO Method getOrder was called with orderId=1
+2022-10-25 15:07:38 INFO Method finishOrder was called with orderId=1
+2022-10-25 15:07:38 INFO Method getOrder was called with orderId=1
+2022-10-25 15:07:38 INFO Method getOrder was called with orderId=1
+2022-10-25 15:10:36 INFO Method createOrder was called
+2022-10-25 15:10:36 INFO Method addItem was called with orderId=1, product=Product{id=1, description='HP X552M', price=500.0}, count=2
+2022-10-25 15:10:36 INFO Method getOrder was called with orderId=1
+2022-10-25 15:10:36 INFO Method addItem was called with orderId=1, product=Product{id=2, description='iphone 14 pro', price=1000.0}, count=1
+2022-10-25 15:10:36 INFO Method getOrder was called with orderId=1
+2022-10-25 15:10:36 INFO Method finishOrder was called with orderId=1
+2022-10-25 15:10:36 INFO Method getOrder was called with orderId=1
+2022-10-25 15:10:36 INFO Method getOrder was called with orderId=1
+2022-10-25 15:10:36 INFO Method finishOrder was called with orderId=999
+2022-10-25 15:10:36 INFO Method getOrder was called with orderId=999
+2022-10-25 15:10:36 ERROR Order not found.
+2022-10-25 15:21:40 INFO Method createOrder was called
+2022-10-25 15:25:42 INFO Method createOrder was called
+2022-10-26 13:59:00 INFO Method createOrder was called
+2022-10-26 13:59:00 INFO Method addItem was called with orderId=1, product=Product{id=1, description='HP X552M', price=500.0}, count=2
+2022-10-26 13:59:00 INFO Method getOrder was called with orderId=1
+2022-10-26 13:59:00 INFO Method addItem was called with orderId=1, product=Product{id=2, description='iphone 14 pro', price=1000.0}, count=1
+2022-10-26 13:59:00 INFO Method getOrder was called with orderId=1
+2022-10-26 13:59:00 INFO Method getOrder was called with orderId=1
+2022-10-26 14:25:50 INFO Method createOrder was called
+2022-10-26 14:25:50 INFO Method finishOrder was called with orderId=1
+2022-10-26 14:25:50 INFO Method getOrder was called with orderId=1
+2022-10-26 14:25:50 INFO Method getOrder was called with orderId=1
+2022-10-26 14:26:34 INFO Method createOrder was called
+2022-10-26 14:26:34 INFO Method createOrder was called
+2022-10-26 14:26:34 INFO Method finishOrder was called with orderId=2
+2022-10-26 14:26:34 INFO Method getOrder was called with orderId=2
+2022-10-26 14:26:34 INFO Method getOrder was called with orderId=2
+2022-10-26 14:26:34 INFO Method createOrder was called
+2022-10-26 14:26:34 INFO Method addItem was called with orderId=3, product=Product{id=1, description='HP X552M', price=500.0}, count=2
+2022-10-26 14:26:34 INFO Method getOrder was called with orderId=3
+2022-10-26 14:26:34 INFO Method addItem was called with orderId=3, product=Product{id=2, description='iphone 14 pro', price=1000.0}, count=1
+2022-10-26 14:26:34 INFO Method getOrder was called with orderId=3
+2022-10-26 14:26:34 INFO Method getOrder was called with orderId=3
+2022-10-26 14:32:22 INFO Method createOrder was called
+2022-10-26 14:32:22 INFO Method createOrder was called
+2022-10-26 14:32:22 INFO Method finishOrder was called with orderId=2
+2022-10-26 14:32:22 INFO Method getOrder was called with orderId=2
+2022-10-26 14:32:22 INFO Method getOrder was called with orderId=2
+2022-10-26 14:32:23 INFO Method createOrder was called
+2022-10-26 14:32:23 INFO Method addItem was called with orderId=3, product=Product{id=1, description='HP X552M', price=500.0}, count=2
+2022-10-26 14:32:23 INFO Method getOrder was called with orderId=3
+2022-10-26 14:32:23 INFO Method addItem was called with orderId=3, product=Product{id=2, description='iphone 14 pro', price=1000.0}, count=1
+2022-10-26 14:32:23 INFO Method getOrder was called with orderId=3
+2022-10-26 14:32:23 INFO Method getOrder was called with orderId=3
+2022-10-26 14:41:25 INFO Method createOrder was called
+2022-10-26 14:41:25 INFO Method getOrder was called with orderId=1
+2022-10-26 14:58:57 INFO Method createOrder was called
+2022-10-26 14:58:57 INFO Method addItem was called with orderId=1, product=Product{id=1, description='HP X552M', price=500.0}, count=2
+2022-10-26 14:58:57 INFO Method getOrder was called with orderId=1
+2022-10-26 14:58:57 INFO Method addItem was called with orderId=1, product=Product{id=2, description='iphone 14 pro', price=1000.0}, count=1
+2022-10-26 14:58:57 INFO Method getOrder was called with orderId=1
+2022-10-26 14:58:57 INFO Method finishOrder was called with orderId=1
+2022-10-26 14:58:57 INFO Method getOrder was called with orderId=1
+2022-10-26 14:58:57 INFO Method getOrder was called with orderId=1
